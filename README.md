@@ -1,2 +1,2 @@
-# botchan_nodejs
+# Bot-chan v.nodejs
 Independently running version of bot-chan that doesn't require a browser.
